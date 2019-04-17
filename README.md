@@ -2,10 +2,13 @@ Java Snake
 a simple javascript snake game using an html5 canvas
 ---------------
 usage:
+	
 	any webrowser with decent javascript support can be pointed
+	
 	at the file to run the program
 
 rules:
+	
 	move your snake around with the number pad or the arrow keys!
 
 	
